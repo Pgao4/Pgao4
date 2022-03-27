@@ -1,4 +1,5 @@
 ### Yoo, I'm Kyro 👋
+[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=2C2E43&color=2C2E43&query=%24.count&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FPgao4)](https://github.com/Pgao4)
 [![Genshin Impact](https://img.shields.io/badge/Genshin%20Impact-165688340-2C2E43?labelColor=2C2E43)](https://space.bilibili.com/37287031/)
 - 🍻 MENG at CA [UofA](https://www.ualberta.ca), Software Engineering
 - ⚡ Java / Python.
