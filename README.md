@@ -1,7 +1,12 @@
-### Hi there 👋
-![Kyro Gao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pgao4&count_private=true&show_icons=true&theme=vue-dark)
+### Yoo, I'm Kyro 👋
+[![Genshin Impact](https://img.shields.io/badge/Genshin%20Impact-165688340-2C2E43?labelColor=2C2E43)](https://space.bilibili.com/37287031/)
+- 🍻 MENG at CA [UofA](https://www.ualberta.ca), Software Engineering
+- ⚡ Java / Python.
+- 🌱 I’m currently learning JavaScript
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark)
+[![Kyro Gao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pgao4&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Pgao4)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark)](https://github.com/Pgao4)
 <!--
 **Pgao4/Pgao4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
