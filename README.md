@@ -13,7 +13,7 @@
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Pgao4" />
 </div>
-<div align="center"><img src="https://raw.githubusercontent.com/Pgao4/Pgao4/main/assets/github-contribution-grid-snake.svg" ></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
 <!--
 **Pgao4/Pgao4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
