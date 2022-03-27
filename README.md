@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark)](https://github.com/Pgao4)
 
-<div align="center">
+<div>
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Pgao4" />
 </div>
 <div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
