@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Kyro Gao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pgao4)
+![Kyro Gao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pgao4&count_private=true&show_icons=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!--
 **Pgao4/Pgao4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
